@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1. National animal of India.",
+    "Q2. Which city is the capital of India?",
+    "Q3. Where Red Fort is located ?",
+    "Q4. Where is Howrah Bridge Located?"
+  ],
+  "answer": [
+    2,
+    2,
+    1,
+    4
+  ],
+  "options": [
+
+    ["Lion",
+      "Tiger",
+      "Rat",
+      "Dog"
+    ],
+    ["Jaipur",
+      "Delhi",
+      "Chennai",
+      "Mumbai"
+    ],
+    ["Delhi",
+      "Punjab",
+      "Goa",
+      "Gorakhpur"
+    ],
+    ["U.P",
+      "Assam",
+      "Bihar",
+      "West Bengal"
+    ]
+  ]
+}
